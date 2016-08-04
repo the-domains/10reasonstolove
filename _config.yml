@@ -1,4 +1,3 @@
-layout_spectrum: 0.1140237944200635
 typography_spectrum: 0.8267278464045376
 color:
   brandStrength: 0.8144394932314754
@@ -11,5 +10,7 @@ color:
     - '#94090D'
     - '#D40D12'
     - '#FF1D23'
+layout_spectrum: 0.1140237944200635
 name: 10reasonstolove
+title: 10reasonstolove
 description: first comes love then the reasons too...
